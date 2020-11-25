@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+
+*.csv
+*.zip
+*.db
+
+train_triplets.txt
